@@ -1,5 +1,5 @@
 const menuprime = (pushname, date, hora120, isVip, pushnames, prefix) => {
-return `༒W̷E̷L̷C̷O̷M̷E̷༒
+return `༒Bem vindo༒
 『 𝐈𝐍𝐅𝐎 』
 ╭══════════════════╯
 ⏤͟͟͞͞ ꦿ𝙉𝙄𝘾𝙆: ${pushname}
