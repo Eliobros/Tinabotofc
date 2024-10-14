@@ -2,7 +2,7 @@
 
 <h1 align="center">
 <p>
-<img src= "https://telegra.ph/file/deb15c7200f306c2300de.jpg" alt="BLACK MD" width="720">
+<img src= "https://i.imgur.com/oWiA5h1.jpeg" alt="TINA BOT" width="720">
 </p>
 
 <p align="center">
